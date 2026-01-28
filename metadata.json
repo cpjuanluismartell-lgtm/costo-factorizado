@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Costo Factorizado de Nómina 2026 v2",
+  "description": "Una aplicación para calcular el costo total del empleador (costo factorizado) pegando datos de nómina desde una hoja de cálculo. La herramienta se adapta a columnas de percepción variables y utiliza las prestaciones de ley mexicanas.",
+  "requestFramePermissions": []
+}
